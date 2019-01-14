@@ -1,6 +1,6 @@
 # hello-world
-Elementary Hello World Program using GitHub
+Bio
 
-Hi there! This is me learning git and GitHub.
-As of September 2017, I am a freshman majoring in computer science at FSU.
+Hi there!
+As of January 2019, I am a sophomore majoring in computer science at FSU.
 I am currently learning C++ and web development.
